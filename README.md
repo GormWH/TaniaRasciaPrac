@@ -1,2 +1,2 @@
 # TaniaRasciaPrac
-practice contents in TaniaRascia.com. Thanks TaniaRascia!
+This repo is my practice codes in TaniaRascia.com(https://www.taniarascia.com)
